@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import  Webpagge  from './Webpagge';
+import './styles.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 

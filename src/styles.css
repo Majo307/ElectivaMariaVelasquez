@@ -1,0 +1,46 @@
+body  {
+    background-color: #DEDEDE ;
+
+}
+
+
+.banner {
+    text-align: center; 
+    padding-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .titulo {
+    font-weight: bold; 
+    font-family: Georgia;
+    font-style: italic; 
+  }
+  
+  .form-explore {
+    text-align: center;
+    margin-top: -10px; 
+  }
+  
+  .explore {
+    padding: 6px;
+    box-shadow: 3px 3px 2px 2px #666666;
+    border: none;
+    outline: none;
+  }
+.gif{
+    border-radius: 2px;
+    width: 200px;
+    max-width: 150%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    box-shadow: 2px 2px 2px 2px #666666 ;
+    object-fit: cover;
+    margin: 10px;
+    
+}
+.grid-gifs{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
